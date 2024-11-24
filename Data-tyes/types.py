@@ -2,3 +2,4 @@
 print("Number")
 print("String")
 print("list")
+print("dictionary")
